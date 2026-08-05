@@ -45,7 +45,7 @@ Aplicación
 
 La aplicación permite:
 
-ingresar información del estudiante;
+Ingresar información del estudiante;
 estimar el promedio académico esperado;
 identificar el nivel de riesgo;
 mostrar fortalezas;
