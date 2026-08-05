@@ -1,5 +1,7 @@
 # EduPath-AI
 Predicción del rendimiento académico mediante Machine Learning y Streamlit.
+
+
 Plataforma desarrollada para predecir el rendimiento académico de estudiantes mediante técnicas de Machine Learning.
 Tecnologías
 Python
